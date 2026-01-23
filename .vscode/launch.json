@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "MultiplicationTable",
+      "request": "launch",
+      "mainClass": "MultiplicationTable",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
