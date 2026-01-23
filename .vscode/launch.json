@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OddSum",
+      "request": "launch",
+      "mainClass": "OddSum",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "MultiplicationTable",
       "request": "launch",
       "mainClass": "MultiplicationTable",
