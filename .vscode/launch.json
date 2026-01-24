@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GCD",
+      "request": "launch",
+      "mainClass": "GCD",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "Temperature",
+      "request": "launch",
+      "mainClass": "Temperature",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "LCM",
       "request": "launch",
       "mainClass": "LCM",
