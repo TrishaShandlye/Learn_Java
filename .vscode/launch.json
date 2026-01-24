@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseTheDigits",
+      "request": "launch",
+      "mainClass": "ReverseTheDigits",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "PrimeNumber",
       "request": "launch",
       "mainClass": "PrimeNumber",
