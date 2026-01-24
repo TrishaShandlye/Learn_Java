@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "PrimeNumber",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "GCD",
       "request": "launch",
       "mainClass": "GCD",
