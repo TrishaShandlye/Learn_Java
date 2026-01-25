@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraySearching",
+      "request": "launch",
+      "mainClass": "ArraySearching",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "LoopPattern",
       "request": "launch",
       "mainClass": "LoopPattern",

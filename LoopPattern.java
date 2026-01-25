@@ -42,30 +42,30 @@ public class LoopPattern {
             row++;
         }
     }
+
     public static void printLeftHalfPyramid(int rows) {
-    System.out.println("\nHere is the Left Half Pyramid");
-    int row = rows;
+        System.out.println("\nHere is the Left Half Pyramid");
+        int row = rows;
 
-    while (row > 0) {
+        while (row > 0) {
 
-        // print spaces
-        int j = 1;
-        while (j < row) {
-            System.out.print("  "); // TWO spaces
-            j++;
+            // print spaces
+            int j = 1;
+            while (j < row) {
+                System.out.print("  "); // TWO spaces
+                j++;
+            }
+
+            // print stars
+            int column = 0;
+            while (column <= (rows - row)) {
+                System.out.print("* ");
+                column++;
+            }
+
+            System.out.println();
+            row--;
         }
-
-        // print stars
-        int column = 0;
-        while (column <= (rows - row)) {
-            System.out.print("* ");
-            column++;
-        }
-
-        System.out.println();
-        row--;
     }
-}
-
 
 }
