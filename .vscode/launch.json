@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "FibonacciSeries",
       "request": "launch",
       "mainClass": "FibonacciSeries",
