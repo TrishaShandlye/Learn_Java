@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge4 {
+public class SimpleAddition {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Two  Numbers:");

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OutputPrint",
+      "request": "launch",
+      "mainClass": "OutputPrint",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "ArraySearching",
       "request": "launch",
       "mainClass": "ArraySearching",
