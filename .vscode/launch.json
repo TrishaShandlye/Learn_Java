@@ -3,6 +3,314 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_45GCD",
+      "request": "launch",
+      "mainClass": "_45GCD",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_44LCM",
+      "request": "launch",
+      "mainClass": "_44LCM",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_43Temperature",
+      "request": "launch",
+      "mainClass": "_43Temperature",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_42TriangleArea",
+      "request": "launch",
+      "mainClass": "_42TriangleArea",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_41RectanglePerimeter",
+      "request": "launch",
+      "mainClass": "_41RectanglePerimeter",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_38Calculator",
+      "request": "launch",
+      "mainClass": "_38Calculator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_39SimpleInterest",
+      "request": "launch",
+      "mainClass": "_39SimpleInterest",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_40CompoundInterest",
+      "request": "launch",
+      "mainClass": "_40CompoundInterest",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_37SimpleAddition",
+      "request": "launch",
+      "mainClass": "_37SimpleAddition",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_36Return",
+      "request": "launch",
+      "mainClass": "_36Return",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_35Parameter",
+      "request": "launch",
+      "mainClass": "_35Parameter",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_34Function",
+      "request": "launch",
+      "mainClass": "_34Function",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_33PrimeNumber",
+      "request": "launch",
+      "mainClass": "_33PrimeNumber",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_32Factorial",
+      "request": "launch",
+      "mainClass": "_32Factorial",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_31FibonacciSeries",
+      "request": "launch",
+      "mainClass": "_31FibonacciSeries",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_30Armstrong",
+      "request": "launch",
+      "mainClass": "_30Armstrong",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_29Palindrome",
+      "request": "launch",
+      "mainClass": "_29Palindrome",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_28ReverseTheDigits",
+      "request": "launch",
+      "mainClass": "_28ReverseTheDigits",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_27SumOfDigits",
+      "request": "launch",
+      "mainClass": "_27SumOfDigits",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_12ShortHandOperator",
+      "request": "launch",
+      "mainClass": "_12ShortHandOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_22Leapyear",
+      "request": "launch",
+      "mainClass": "_22Leapyear",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_20GreatestAmongThree",
+      "request": "launch",
+      "mainClass": "_20GreatestAmongThree",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_19GradeCheck",
+      "request": "launch",
+      "mainClass": "_19GradeCheck",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_18EvenOdd",
+      "request": "launch",
+      "mainClass": "_18EvenOdd",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_17CheckNo",
+      "request": "launch",
+      "mainClass": "_17CheckNo",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_16userInput",
+      "request": "launch",
+      "mainClass": "_16userInput",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_15OrderOfOperation",
+      "request": "launch",
+      "mainClass": "_15OrderOfOperation",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_11UnaryOperator",
+      "request": "launch",
+      "mainClass": "_11UnaryOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_10LogicalOperator",
+      "request": "launch",
+      "mainClass": "_10LogicalOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_13BitwiseOperator",
+      "request": "launch",
+      "mainClass": "_13BitwiseOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_14BitwiseEvenOdd",
+      "request": "launch",
+      "mainClass": "_14BitwiseEvenOdd",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_23LearningIf",
+      "request": "launch",
+      "mainClass": "_23LearningIf",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_24Loop",
+      "request": "launch",
+      "mainClass": "_24Loop",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_25MultiplicationTable",
+      "request": "launch",
+      "mainClass": "_25MultiplicationTable",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_26OddSum",
+      "request": "launch",
+      "mainClass": "_26OddSum",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_9RelationalOperator",
+      "request": "launch",
+      "mainClass": "_9RelationalOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_8AssignmentOperator",
+      "request": "launch",
+      "mainClass": "_8AssignmentOperator",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_7Arithemetic",
+      "request": "launch",
+      "mainClass": "_7Arithemetic",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_5Variables",
+      "request": "launch",
+      "mainClass": "_5Variables",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_6TypeConversion",
+      "request": "launch",
+      "mainClass": "_6TypeConversion",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_4Escape",
+      "request": "launch",
+      "mainClass": "_4Escape",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_3NextLinePrint",
+      "request": "launch",
+      "mainClass": "_3NextLinePrint",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_2OutputPrint",
+      "request": "launch",
+      "mainClass": "_2OutputPrint",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
+      "name": "_1MyFirstProgram",
+      "request": "launch",
+      "mainClass": "_1MyFirstProgram",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "OutputPrint",
       "request": "launch",
       "mainClass": "OutputPrint",
