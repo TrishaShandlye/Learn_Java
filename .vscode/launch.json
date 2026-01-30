@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraySumAverage",
+      "request": "launch",
+      "mainClass": "ArraySumAverage",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "_52ArraySumAverage",
       "request": "launch",
       "mainClass": "_52ArraySumAverage",
