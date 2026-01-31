@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OccurrenceOfElements",
+      "request": "launch",
+      "mainClass": "OccurrenceOfElements",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "ArraySumAverage",
       "request": "launch",
       "mainClass": "ArraySumAverage",
