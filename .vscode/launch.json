@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_55CheckSortedArray",
+      "request": "launch",
+      "mainClass": "_55CheckSortedArray",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "_54MaxMinArray",
       "request": "launch",
       "mainClass": "_54MaxMinArray",
