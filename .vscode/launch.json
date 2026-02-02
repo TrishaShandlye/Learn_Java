@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_56DeleteElementFromArray",
+      "request": "launch",
+      "mainClass": "_56DeleteElementFromArray",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "_55CheckSortedArray",
       "request": "launch",
       "mainClass": "_55CheckSortedArray",
