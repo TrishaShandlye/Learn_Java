@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_54OccurancesArray",
+      "request": "launch",
+      "mainClass": "_54OccurancesArray",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "_57ReverseArray",
       "request": "launch",
       "mainClass": "_57ReverseArray",
