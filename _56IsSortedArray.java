@@ -1,4 +1,4 @@
-public class IsSortedArray {
+public class _56IsSortedArray {
     public static void main(String[] args) {
         System.out.println("Welcome to Array Sorting Checkpost///");
         int[] numArray=_53ArrayUtility.inputArray();
