@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayOperations",
+      "request": "launch",
+      "mainClass": "ArrayOperations",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "_56IsSortedArray",
       "request": "launch",
       "mainClass": "_56IsSortedArray",
