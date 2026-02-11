@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayExample",
+      "request": "launch",
+      "mainClass": "ArrayExample",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "ArrayOperations",
       "request": "launch",
       "mainClass": "ArrayOperations",
