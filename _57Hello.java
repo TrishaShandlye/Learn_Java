@@ -1,11 +1,11 @@
-public class Hello {
+public class _57Hello {
 
     void hello() {
         System.out.println("Hello");
     }
 
     public static void main(String[] args) {
-        Hello h = new Hello();  
+        _57Hello h = new _57Hello();  
         h.hello();              
 } {
     
