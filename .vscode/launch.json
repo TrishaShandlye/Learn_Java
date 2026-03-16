@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BitStuffing",
+      "request": "launch",
+      "mainClass": "BitStuffing",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "ArrayExample",
       "request": "launch",
       "mainClass": "ArrayExample",
