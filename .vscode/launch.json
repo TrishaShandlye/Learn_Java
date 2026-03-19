@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_58TestCustomException",
+      "request": "launch",
+      "mainClass": "_58TestCustomException",
+      "projectName": "Learn_Java_4ab0cb1"
+    },
+    {
+      "type": "java",
       "name": "BitStuffing",
       "request": "launch",
       "mainClass": "BitStuffing",
